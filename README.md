@@ -1,1 +1,1 @@
-# teste
+# Repositório para testes.
